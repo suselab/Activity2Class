@@ -1,3 +1,9 @@
+## Project specific
+datasets/UCI13/
+datasets/RW16/
+datasets/SHL20/
+## Python specific
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
