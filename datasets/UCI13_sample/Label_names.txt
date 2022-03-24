@@ -1,0 +1,6 @@
+walking
+stairsup
+stairsdown
+sitting
+standing
+laying
