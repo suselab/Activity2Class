@@ -3,8 +3,10 @@ datasets/UCI13/train/
 datasets/UCI13/test/
 datasets/RW16/train/
 datasets/RW16/test/
-datasets/SHL20/train/
-datasets/SHL20/test/
+datasets/SHL18/train/
+datasets/SHL18/test/
+.env/
+*.DS_Store
 ## Python specific
 
 # Byte-compiled / optimized / DLL files
