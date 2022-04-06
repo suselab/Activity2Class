@@ -1,7 +1,10 @@
 ## Project specific
-datasets/UCI13/
-datasets/RW16/
-datasets/SHL20/
+datasets/UCI13/train/
+datasets/UCI13/test/
+datasets/RW16/train/
+datasets/RW16/test/
+datasets/SHL20/train/
+datasets/SHL20/test/
 ## Python specific
 
 # Byte-compiled / optimized / DLL files
